@@ -32,14 +32,31 @@ public class Loops {
 //                // body
 //            }
 
-        //        for (int num = 1; num <= 5; num += 2) {
+
+//        int num  = 1;
+//        while (num <= 5) {
 //            System.out.println(num);
+//            num += 1;
 //        }
 
-        int num  = 1;
-        while (num <= 5) {
-            System.out.println(num);
-            num += 1;
-        }
+        // do while
+//Syntax :
+
+//            do {
+//                // body
+//            } while (condition);
+
+//        int n = 1;
+//        do {
+//            System.out.println(n);
+//            n++;
+//        }while(n<=5);
+
+        int n = 1;
+        do {
+            System.out.println("Hello World!");
+        } while(n != 1);
+
+
     }
 }
