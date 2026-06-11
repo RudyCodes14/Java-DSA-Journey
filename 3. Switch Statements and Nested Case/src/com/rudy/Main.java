@@ -1,3 +1,5 @@
+package com.rudy;
+
 import java.util.Scanner;
 
 public class Main {
